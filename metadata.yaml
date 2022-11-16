@@ -1,0 +1,45 @@
+_repo: Les-beaux-messieurs-de-Bois-Dore-Vol-02-of-2-The-masterpieces-of-George-Sand-Vol-10_69332
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Atalaya, H.
+    gutenberg_agent_id: '55215'
+    url: http://www.gutenberg.org/2009/agents/55215
+  translator:
+    agent_name: Ives, G. Burnham
+    gutenberg_agent_id: '55214'
+    url: http://www.gutenberg.org/2009/agents/55214
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - https://en.wikipedia.org/wiki/George_Sand
+    - https://fr.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2022-11-12'
+identifiers:
+  gutenberg: '69332'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006130562
+pgterms:marc905: 20221006091725sand
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: 'United States: G. Barrie & son,1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les beaux messieurs de Bois-Doré Vol. 02 (of 2): The masterpieces of George
+  Sand Vol. 10'
+url: http://www.gutenberg.org/ebooks/69332
